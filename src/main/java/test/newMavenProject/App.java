@@ -6,7 +6,14 @@ package test.newMavenProject;
  */
 public class App 
 {
-    public static void main( String[] args )
+    
+public App()
+{
+	
+	System.out.println("Added new method...... as a Team Member 1");
+	}
+	
+	public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
